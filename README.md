@@ -1,2 +1,5 @@
-# Course_Project_CV
-Course Assignments of Computer Vision, Tongji Univ SSE
+### Course Project / Computer Vision
+Course Assignments for Computer Vision Tongji Univ
+
+### LICENSE
+GNU GPLv2
